@@ -1,0 +1,15 @@
+.App-logo {
+    /*animation: App-logo-spin infinite 20s linear;*/
+    height: 35px;
+    float: left;
+    padding-left: 40px;
+}
+
+.App-header {
+    background-color: #1D428A;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+    box-shadow: -1px 0 5px #1D428A;
+}
