@@ -1,7 +1,7 @@
 import React from 'react';
 import { PROFILE_PIC_URL_PREFIX, TEAM_PIC_URL_PREFIX } from '../constants';
 
-export default class Profile extends React.Component {
+export class Profile extends React.Component {
     render() {
         const {
             teamAbbreviation,
